@@ -9,8 +9,8 @@
   <a href="www.gmail.com/chris2fer10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCDZFGqXkQ21itSaLvz8-jEw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://groupme.com/contact/82563075/6nz01CXw">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="groupme Badge"/>
   </a>
 </div>
 
