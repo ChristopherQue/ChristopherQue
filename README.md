@@ -30,7 +30,7 @@
 </h2>
 
 <div align="left">
-👨‍🎓 My name is Chris Que and I am a software engineer currently studying at Florida State University. 
+👨‍🎓 My name is Chris Que and I am a software engineer studying at Florida State University. 
   
 - 📱 I am currently exploring mobile developement
 
