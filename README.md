@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="www.gmail.com/chris2fer10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://mail.google.com/mail/u/0/#inbox" alt="Gmail Badge"/>
   </a>
   <a href="https://groupme.com/contact/82563075/6nz01CXw">
     <img src="https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white" alt="groupme Badge"/>
