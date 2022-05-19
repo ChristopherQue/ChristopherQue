@@ -37,6 +37,8 @@
 - 📧 You can reach me at: Chris2fer10@gmail.com 
 
 - ⏳ In my free time, I solve problems on LeetCode and work on side projects.
+  
+- 💻 Take a look at some of my previous projects in the repository titled project.
 
 </div>
   
